@@ -1,0 +1,1 @@
+Enter number of element : Enter elements : Enter target : Found at index : 5

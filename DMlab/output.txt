@@ -1,0 +1,18 @@
+Enter the total number of element in universal set
+Enter elements :
+UNIVERSAL SET Enter the total number of element in set A
+Enter elements :
+Enter the total number of element in set B
+Enter elements :
+AUB :[1 2 3 ]
+A^B :[1 3 ]
+A' :[2 4 5 ]
+B' :[4 5 ]
+
++++++First property (A^B)’ = (A’ U B’)+++++
+LHS	(A^B)' :[2 4 5 ]
+RHS	A' U B' :[2 4 5 ]
+
++++++Second property (AUB)’ = A’ ^ B’+++++
+LHS	(AUB)' :[4 5 ]
+RHS	A' ^ B' :[4 5 ]
